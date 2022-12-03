@@ -7,6 +7,8 @@ import re
 
 #########################################################
 
+## Este es un comentario
+
 # Aquí vendrá la implementación de la lógica del bot
 
 @bot.message_handler(commands=['start'])
